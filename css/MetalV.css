@@ -1,0 +1,203 @@
+body{
+    margin: 0;
+}
+.container-fluid .vida{
+    background-color: #090823;
+    border-radius: 0px 25px 0px 25px;
+}
+.container-fluid .sofa{
+    color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.container-fluid .vida h5{
+    color: #FFF;
+font-family: Orbitron;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container-fluid .noche .uno{
+    margin-top: 80px;
+}
+.container-fluid .noche .dos{
+    margin-top: 5px;
+    margin-left: 70px; 
+}
+.container-fluid .noche .tres{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.container-fluid .lluvia img{
+    margin-left: 6%;
+}
+.container-fluid .sol p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 166.667% */
+}
+.container-fluid .noche h1{
+    color: #FFF;
+font-family: Orbitron;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-family: 'Poppins', sans-serif;
+}
+.container-fluid .soy{
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+.container-fluid .tu{
+     background-color: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+    border: 1px solid var(--3, #D10ED1);
+    border-radius: 5px;
+}
+.final{
+    background-color: #090823;
+}
+.final ul li{
+    list-style: none;
+}
+.container-fluid .miss samp{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Orbitron;
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+line-height: 72px; /* 130.909% */
+}
+.container-fluid .miss .yano{
+    color: #FFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Orbitron;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 68px; /* 151.111% */
+}
+.container-fluid .cinco .trevol{
+    border-radius: 5px;
+background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+.container-fluid .cinco .cuatro{
+    border-radius: 5px;
+border: 1px solid var(--3, #D10ED1);
+}
+.container-fluid .fortuna samp h1{
+background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Orbitron;
+/*font-size: 35px;*/
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container-fluid .rey{
+    display: flex;
+width: 137px;
+height: 44px;
+padding: 12px 14px;
+justify-content: center;
+align-items: center;
+
+border-radius: 5px;
+background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+.container-fluid .vivo samp{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container-fluid .salvaje samp{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Orbitron;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container-fluid .salvaje{
+    color: #FFF;
+font-family: Orbitron;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container-fluid .mayo .ves{
+    margin-bottom: 4%;
+    width: 98%;
+}
+.container-fluid .mayo .mar{
+margin-top: 18%;
+    margin-left: 43%;
+}
+.container-fluid .mayo .marinero{
+    color: #FFF;
+font-family: Orbitron;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ margin-bottom: 8%;
+ margin-left: 4%;
+}
+.final .tierra .kojo h1{
+background: var(--2, linear-gradient(97deg, #F86CF8 6.04%, #64CEF5 87.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Orbitron;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.container-fluid .morado{
+    margin-left: 8%;
+}
+.container-fluid .morado1{
+margin-top: -67%;
+    margin-left: 58%;
+    width: 80%;
+    height: 80%;
+    border-radius: 1046px;
+    background: radial-gradient(40.17% 39.79% at 50% 50%, rgba(170, 20, 240, 0.28) 0%, rgba(170, 20, 240, 0.00) 100%);
+
+}
+.container-fluid .morado2{
+margin-top: 21%;
+margin-left: -3%;
+}
+.container-fluid .morado3{
+margin-top: 65%;
+    margin-left: 73%;
+}
+.container-fluid .morado4{
+margin-top: 125%;
+margin-left: -3%;
+}
+.container-fluid .morado5{
+margin-top: 159%;
+    margin-left: 73%;
+}
