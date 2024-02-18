@@ -21,6 +21,9 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
 }
+.container-fluid .noche{
+    margin-left: 3%;
+}
 .container-fluid .noche .uno{
     margin-top: 80px;
 }
